@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Motor91
 - 👀 I’m interested in nature and traveling
 - 🌱 I’m currently learning crypto
-- 💞️ I’m looking to collaborate on work
+- 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me by email
 - 😄 Pronouns: they
 - ⚡ Fun fact: i am 3 years old :)
